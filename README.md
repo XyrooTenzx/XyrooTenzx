@@ -1,6 +1,10 @@
 <h1 align="center">Yo! 👋, I'm XyrooTenzx</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=90EE90&width=435&lines=Welcome+to+my+GitHub!;Fullstack+Dev+%7C+Tech+Enthusiast;Let's+build+cool+things!;Enjoy+the+cat+vibes!+😺" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=XyrooTenzx&label=Profile%20views&color=0e75b6&style=flat" alt="XyrooTenzx" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Fullstack+Dev+%7C+Learner+%7C+Tech+Enthusiast;Let's+build+something+cool!&center=true&width=500&height=50">
 </p>
 
 ---
