@@ -1,9 +1,4 @@
 <h1 align="center">Yo! 👋, I'm XyrooTenzx</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=90EE90&width=435&lines=Welcome+to+my+GitHub!;Fullstack+Dev+%7C+Tech+Enthusiast;Let's+build+cool+things!;Enjoy+the+cat+vibes!+😺" alt="Typing SVG" />
 </p>
